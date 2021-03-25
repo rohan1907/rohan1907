@@ -3,7 +3,10 @@
 
 
 ### About Me 👀
-I am an Information Science Undergrad, who loves writing code. Machine Learning is a never-ending puzzle that I am passionately engaged in solving. A firm believer in the power of programming to transform and improve the lives of people around the world. My interests also include Community Management and Public speaking.
+* I am an Information Science Undergrad, who loves writing code. 
+* Machine Learning is a never-ending puzzle that I am passionately engaged in solving.
+* A firm believer in the power of programming to transform and improve the lives of people around the world. 
+* My interests also include Community Management and Public speaking.
 
 ## Find me around the web 🌎
 
