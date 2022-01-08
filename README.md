@@ -1,13 +1,10 @@
 # Hello, I'm Rohan.🙋🏻‍♂️ 
-## Student Developer, Budding Programer, ML Enthusiast 🧒🏻 <img src="https://user-images.githubusercontent.com/42442507/112508684-c7771800-8db5-11eb-8928-3f0c19ccac9a.png" alt="alt text" width=150 height=150>
-
-
+## Student Developer, Budding Programer, ML Enthusiast 🧒🏻 
 ### About Me 👀
-* Product Developement Intern @Epicor Softwares.
+* Product Developement Intern __@Epicor Softwares__.
 * Learning about Deep Learning and Machine Learning.
 * Believes in the power of programming to transform and improve the lives of people around the world. 
 * Loves to write technicals blogs.
-
 
 ![](https://komarev.com/ghpvc/?username=rohan1907&style=flat-square&label=GitHub+Profile+Views)
 
