@@ -1,7 +1,7 @@
 # Hello, I'm Rohan.🙋🏻‍♂️ 
 ## Student Developer, Budding Programer, ML Enthusiast 🧒🏻 
 ### About Me 👀
-* Product Developement Intern __@Practo Technologies__.
+* SDE Intern __@Practo Technologies__.
 * Learning about Deep Learning and Machine Learning.
 * Believes in the power of programming to transform and improve the lives of people around the world. 
 * Loves to write technicals blogs.
