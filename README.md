@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Tourney&center=true&color=7CFC00&size=40&width=750&height=80&lines=Hello+there,+I%27m+Rohan!"/>
 </p>
 
-## Student Developer, Budding Programer, ML Enthusiast 🧒🏻 
+## Developer, Learner, ML Enthusiast 🧒🏻 
 ### About Me 👀
 * SDE 1 __@Practo Technologies__.
 * Learning about Deep Learning and Machine Learning.
