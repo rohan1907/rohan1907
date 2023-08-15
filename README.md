@@ -5,9 +5,9 @@
 ## Developer, Learner, ML Enthusiast 🧒🏻 
 ### About Me 👀
 * SDE 1 __@Practo Technologies__.
-* Learning about Deep Learning and Machine Learning.
+* Backend developer who sometimes meddles with the React code!
 * Believes in the power of programming to transform and improve the lives of people around the world. 
-* Loves to write technicals blogs.
+* Learn and use!
 
 ![](https://komarev.com/ghpvc/?username=rohan1907&style=flat-square&label=GitHub+Profile+Views)
 
